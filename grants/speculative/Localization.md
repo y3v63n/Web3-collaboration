@@ -10,7 +10,7 @@ Therefore, we propose to localize the documentation into Chinese, French, Italia
 Currently, the follwoing models are used for localization purposes:
 
 
-Model 1
+**Model 1**
 
 In-house. Dedicated linguists are based on the client's or localization vendor premises.
 
@@ -20,7 +20,7 @@ Cons: Highest cost
 
 
 
-Model 2
+**Model 2**
 
 Outsorcing from a single vendor. Localization services are procured from a language service provider.
 
@@ -29,7 +29,7 @@ Pros: Relatively high quality. Low level of admnistrative efforts required from 
 Cons: High cost. Vendors often subcontact work to other vendors.
 
 
-Model 3
+**Model 3**
 
 Outsorcing from multiple vendors. Localization services are procured from several individual transators.
 
@@ -38,7 +38,7 @@ Pros: High quality. Hand-picked vendors specialized in the required domain. Rela
 Cons: Requires management from the client side.
 
 
-Model 4
+**Model 4**
 
 Machine translation post-editing. Content is machine-translated and then edited by specially trained linguists. The latter part may be implemented both via in-house or outsourcing model.
 
@@ -47,7 +47,7 @@ Pros: Provides the ability to localize high quantities of content in relatively 
 Cons: Requires significant investment in machine learning infrastructure and setting up processes. Suitable only for repetitive technical content.
 
 
-Model 4
+**Model 5**
 
 Crowdsourced translations. Localization services are provided by volunteers.
 
@@ -88,7 +88,7 @@ According to analysis by Inspider Insite tool, the current total wordcount for S
 
 The project can realistically be implemented in 4 months. It will require a part-to-full time dedication of one localization project manager and part-time dedication from 8 translators and 8 reviewers (one per language). Please note that the calculation is based on the highest average per-word and hourly rate for translation and review for each language and is likely to be about 30% lower. The detailed budget can be found in the Google Form.
 
-Milestones
+**Milestones**
 -	Creation of Terms of References, survey and test for vendors; publication of vacancy notice (weeks 0-2);
 -	Creation of a template for Style Guides and Term Base (weeks 2-4);
 -	Setting up CAT-tools and preparation of translatables (week 5);
