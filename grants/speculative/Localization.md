@@ -9,6 +9,7 @@ Therefore, we propose to localize the documentation into Chinese, French, Italia
 
 Currently, the follwoing models are used for localization purposes:
 
+
 Model 1
 
 In-house. Dedicated linguists are based on the client's or localization vendor premises.
@@ -16,6 +17,7 @@ In-house. Dedicated linguists are based on the client's or localization vendor p
 Pros: Highest quality
 
 Cons: Highest cost
+
 
 
 Model 2
