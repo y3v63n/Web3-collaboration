@@ -2,7 +2,9 @@
 
 ## Project Description
 The project is aimed at localizing existing Substrate support documentation (https://docs.substrate.dev/docs) and Substrate Collectibles Workshop (https://shawntabrizi.github.io/substrate-collectables-workshop/#/) into several languages that we believe are crucial to the growth of the number of Substrate and Polkadot supporters, which will help to reach developers in many countries with strong developer communities. It will also assist in setting up localization processes and workflows that can be used for future localization needs.
+
 According to Hackerrank [1], China and Russia are the top two countries with the most skilled developers in the world, yet Russia is only No 42 on the English Proficiency Index (moderate proficiency), while China is 47 (low proficiency) [2]. Among the countries that have highly qualified software development specialists amid moderate to low English proficiency are also Japan, Taiwan, France, Italy, Ukraine, Spain, South Korea and Vietnam.
+
 Therefore, we propose to localize the documentation into Chinese, French, Italian, Japanese, Korean, Russian, Spanish and Vietnamese. These translations not only will help to reach communities in the above countries, but will also attract interest in other regions (e.g. Russian is spoken in most CIS countries, Spanish in South America, French in Africa, etc).
 
 Currently, the follwoing models are used for localization purposes:
@@ -74,6 +76,7 @@ Milestones
 -	Review of Substrate Collectibles Workshop; implementation of queries; summing-up results (weeks 14-15).
 
 Ideally, we could receive the first installment of the grant before the start of week 5 in order to cover expenses for setting up CAT-tool (Transifex or similar) and job board (Proz.com) subscriptions. The rest of the installments could be paid on a monthly basis. The Project Manager is willing to provide their services on the pro bono basis for the first 5 weeks until a larger-scale involvement is required.
+
 The Project Manager is willing to consider partial payment of up to 50% in DOTs. The rest of the team will be offered to consider partial payment in DOTs as well.
 
 
