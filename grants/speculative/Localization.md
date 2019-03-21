@@ -10,40 +10,61 @@ Therefore, we propose to localize the documentation into Chinese, French, Italia
 Currently, the follwoing models are used for localization purposes:
 
 Model 1
+
 In-house. Dedicated linguists are based on the client's or localization vendor premises.
+
 Pros: Highest quality
+
 Cons: Highest cost
 
+
 Model 2
+
 Outsorcing from a single vendor. Localization services are procured from a language service provider.
+
 Pros: Relatively high quality. Low level of admnistrative efforts required from client.
+
 Cons: High cost. Vendors often subcontact work to other vendors.
 
+
 Model 3
+
 Outsorcing from multiple vendors. Localization services are procured from several individual transators.
+
 Pros: High quality. Hand-picked vendors specialized in the required domain. Relatively low cost (client pays for the actual cost of the service).
+
 Cons: Requires management from the client side.
 
-Model 4
-Machine translation post-editing. Content is machine-translated and then edited by specially trained linguists. The latter part may be implemented both via in-house or outsourcing model.
-Pros: Provides the ability to localize high quantities of content in relatively small timeframe. Cost-effective compared to regular localization.
-Cons: Requires significant investment in machine learning infrastructure and setting up processes. Suitable only for repetitive technical content.
 
 Model 4
+
+Machine translation post-editing. Content is machine-translated and then edited by specially trained linguists. The latter part may be implemented both via in-house or outsourcing model.
+
+Pros: Provides the ability to localize high quantities of content in relatively small timeframe. Cost-effective compared to regular localization.
+
+Cons: Requires significant investment in machine learning infrastructure and setting up processes. Suitable only for repetitive technical content.
+
+
+Model 4
+
 Crowdsourced translations. Localization services are provided by volunteers.
+
 Pros: Low cost. Community involvement.
+
 Cons: Average to low quality. Inconsistency. High turnout rate of volunteers. Mostly non-professional localization.
+
 
 For this project we propose to outsorce localization from multiple vendors (Model 3). In order to ensure coordination and management of resources, the lead applicant is willing to provide localization project management service pro bono during initial stage, until larger-scale involvement is required.
 
 
 ## Team members
 Team Lead and Project Manager: Yevgen Chygrynskyy
+
 Localization vendors: 16 members to be selected
 	
 
 ## Legal Structure 
-Team Lead is self-employed. The legal status of the rest of the tema is TBC.
+Team Lead is an independent contractor. The legal status of the rest of the tema is TBC.
 
 
 ## Team's experience
@@ -91,4 +112,5 @@ The Project Manager is willing to consider partial payment of up to 50% in DOTs.
 
 ## References
 [1] https://blog.hackerrank.com/which-country-would-win-in-the-programming-olympics/
+
 [2] https://www.ef.co.th/__/~/media/centralefcom/epi/downloads/full-reports/v8/ef-epi-2018-english.pdf
